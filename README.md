@@ -19,8 +19,8 @@ Hello, I am a student at Saigon University, specializing in web development with
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DGT-Human/DGT-Human/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DGT-Human/DGT-Human/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/DGT-Human/DGT-Human/output/github-contribution-grid-snake.svg">
     </picture>
 </p>
