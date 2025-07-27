@@ -20,6 +20,5 @@ Hello, I am a student at Saigon University, specializing in web development with
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DGT-Human/DGT-Human/main/output/github-contribution-grid-snake-dark.svg">
-      <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/DGT-Human/DGT-Human/main/output/github-contribution-grid-snake.svg">
     </picture>
 </p>
