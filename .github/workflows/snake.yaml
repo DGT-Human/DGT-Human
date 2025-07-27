@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+       
+      - name: Pull latest changes
+        run: git pull origin main --rebase
 
       - name: Generate Snake animation
         uses: Platane/snk@v3
@@ -22,9 +25,6 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
-            
-      - name: Pull latest changes
-        run: git pull origin main --rebase
         
       - name: Push the SVG files to the output branch
         uses: EndBug/add-and-commit@v9
