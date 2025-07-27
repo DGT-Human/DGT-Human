@@ -17,7 +17,7 @@ Hello, I am a student at Saigon University, specializing in web development with
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DGT-Human/DGT-Human/main/output/github-snake-dark.svg)
 
 <p align="center">
     <picture>        
